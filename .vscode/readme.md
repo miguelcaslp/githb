@@ -13,7 +13,7 @@ Logo de la web:
 |01    |Antonio |Sistemas      |
 |02    |Diego   |programacion  |
 
-**Crea una lista en html like this:**
+**Crea una lista en xml like this:**
 1. Primero
     * Coche
     * Avion
