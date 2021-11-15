@@ -1,4 +1,5 @@
 # Actividades de entornos 
+En este repositorio veremos ejercicios e informacion sbre XML en la asignatura de Entornos de desarrollo.
 ### **Para el primer ejercicio de xml es recomendable sar este enlace:**
 [w3school/xml](https://www.w3schools.com/xml/ "w3/xml")
 
