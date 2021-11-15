@@ -1,10 +1,11 @@
 # Actividades de entornos 
 Para el primer ejercicio de xml es recomendable sar este enlace:
-[Google](https://www.w3schools.com/xml/ "Google Search")
+[w3school/xml](https://www.w3schools.com/xml/ "Google Search")
 
 Crea una tabla como esta en xml:
 
 |Clase |profesor|Asignatura    |
+|--    |------- |------------  |
 |01    |Antonio |Sistemas      |
 |02    |Diego   |programacion  |
 
